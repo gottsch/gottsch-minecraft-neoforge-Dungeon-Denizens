@@ -1,0 +1,23 @@
+{
+  "entity.ddenizens.boulder": "Boulder",
+  "entity.ddenizens.daemon": "Daemon",
+  "entity.ddenizens.gazer": "Gazer",
+  "entity.ddenizens.ghoul": "Ghoul",
+  "entity.ddenizens.headless": "Headless",
+  "entity.ddenizens.orc": "Orc",
+  "entity.ddenizens.shadow": "Shadow",
+  "entity.ddenizens.shadowlord": "Shadowlord",
+  "item.ddenizens.boulder": "Boulder Spawn Egg",
+  "item.ddenizens.club": "Club",
+  "item.ddenizens.daemon": "Daemon Spawn Egg",
+  "item.ddenizens.gazer": "Gazer Spawn Egg",
+  "item.ddenizens.ghoul": "Ghoul Spawn Egg",
+  "item.ddenizens.harmball": "Harmball",
+  "item.ddenizens.headless": "Headless Spawn Egg",
+  "item.ddenizens.orc": "Orc Spawn Egg",
+  "item.ddenizens.rock": "Rock",
+  "item.ddenizens.shadow": "Shadow Spawn Egg",
+  "item.ddenizens.shadowlord": "Shadowlord Spawn Egg",
+  "item.ddenizens.slowball": "Slowball",
+  "item.ddenizens.spiked_club": "Spiked Club"
+}
